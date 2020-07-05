@@ -15,7 +15,7 @@ cmake --build build
 - load the plugin
 - open the plugin's editor
 - close the plugin's editor
-- open the plugin's editor again (doesn't happen every time)
+- open the plugin's editor again (might need to try a few times, error doesn't always happen right away)
 ```
 
 You'll get these two error messages before the host crashes:
